@@ -1,3 +1,3 @@
-"# cinema-app(in progress)" 
+# Cinema-app(in progress)
 
 
